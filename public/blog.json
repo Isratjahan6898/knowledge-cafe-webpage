@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.postimg.cc/43pgqD06/1.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mr. Raju",
+      "author_img": "https://i.postimg.cc/Hst3ZB3r/boy1.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 10,
+      "hashtag": "#fiction #classic"
+    },
+    {
+      "id": "2",
+      "cover": "https://i.postimg.cc/7h6jHdKQ/2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mrs. Setara",
+      "author_img": "https://i.postimg.cc/PJQb75Wg/boy2.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 15,
+      "hashtag": "#sci-fi #adventure"
+    },
+    {
+      "id": "3",
+      "cover": "https://i.postimg.cc/nz5NLTNF/3.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mina Mostofa",
+      "author_img": "https://i.postimg.cc/3xRjL7dq/girl1.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 20,
+      "hashtag": "#strategy #warfare"
+    },
+    {
+      "id": "4",
+      "cover": "https://i.postimg.cc/pLx4ymcF/4.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Benjamin Thompson",
+      "author_img": "https://i.postimg.cc/zGcC6MhG/girl2.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 25,
+      "hashtag": "#historical #novel"
+    }
+]
+  
